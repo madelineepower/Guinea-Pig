@@ -1,0 +1,19 @@
+.blue {
+  color: blue;
+}
+
+.large {
+  font-size: 5em;
+}
+
+.border {
+  border: 2px solid black;
+}
+
+.round {
+  border-radius: 20px;
+}
+
+button {
+  display: block;
+}
